@@ -1,0 +1,15 @@
+.resume-container {
+
+    .resume-img{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        max-width: 95vw;
+        min-width: 300px;
+
+        max-height: 80vh;
+
+        box-shadow: 0 0 7px rgba(0, 0, 0, 0.2);
+    }
+}

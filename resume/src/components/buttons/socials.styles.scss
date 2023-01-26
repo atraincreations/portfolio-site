@@ -1,0 +1,31 @@
+
+.socials-container {
+    display: flex;
+    padding-bottom: 10px;
+    align-items: center;
+    max-width: 70vw;
+    min-width: 300px;
+
+    .text {
+        padding: 10px;
+        align-self: center;
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+    }
+
+    .linkedin-img {
+        height: 60px;  
+    }
+
+    .github-img {
+        height: 60px;
+    }
+
+    a:hover {
+        transform: scale(1.02);
+
+    }
+
+
+}
+
